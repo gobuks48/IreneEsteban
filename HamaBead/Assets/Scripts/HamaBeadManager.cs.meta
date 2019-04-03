@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02a8813559d45314fa5ceaaf5da46765
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hamaBeadPrefab: {fileID: 1675103134178274, guid: 6abb7989d0af35e4ca75b8c020d3519f,
+      type: 2}
+  - panelTransform: {instanceID: 0}
+  - selectedColorImage: {instanceID: 0}
+  - colorButtonPrefab: {fileID: 1968888200161326, guid: 23e5b07e323506f4a8664a1b94b3877c,
+      type: 2}
+  - colorSelectionPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
